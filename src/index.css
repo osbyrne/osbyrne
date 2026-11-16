@@ -1,7 +1,0 @@
-@import "@fontsource/maple-mono";
-@import "tailwindcss";
-@plugin "daisyui";
-
-@theme {
-  --font-maple-mono: "Maple Mono", monospace;
-}
